@@ -6,6 +6,7 @@
 build/*
 
 install/*
+.vscode/*
 
 # User-specific files
 *.suo

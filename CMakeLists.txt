@@ -100,5 +100,4 @@ install(FILES ${CMAKE_BINARY_DIR}/Kernel.exe DESTINATION ${CMAKE_INSTALL_PREFIX}
 # ┌──────────────────────────────────────────────────────────────────┐
 # │  Example Scripts                                                 │
 # └──────────────────────────────────────────────────────────────────┘
-install(FILES ${CMAKE_CURRENT_SOURCE_DIR}/A.py DESTINATION ${CMAKE_INSTALL_PREFIX})
-install(FILES ${CMAKE_CURRENT_SOURCE_DIR}/B.py DESTINATION ${CMAKE_INSTALL_PREFIX})
+install(FILES ${CMAKE_CURRENT_SOURCE_DIR}/QtGUI.py DESTINATION ${CMAKE_INSTALL_PREFIX})
